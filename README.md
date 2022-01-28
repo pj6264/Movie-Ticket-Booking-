@@ -2,9 +2,9 @@
 
 A mini project by:
 
-Ja Prarthanaa RA2111009010092
+Ja Prarthanaa (RA2111009010092)
 
-Aayush M V RA2111009010093
+Aayush M V (RA2111009010093)
 
 This project is to implement a simple Movie Ticket Booking System where a user can book and print a ticket under his/her name and contact number. 
 Arrays, Structures, Pointers, Functions and Text files are used in this project
